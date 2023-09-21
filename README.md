@@ -1,6 +1,6 @@
 ## [fbgabriana.github.io](/ "Bamm's KodeGo Repository") / [planetweight](/planetweight/)
 
-# Planetweight
+# PlanetWeight
 
 A single-page HTML5 application that displays your weight and age on each planet in the solar system.
 
