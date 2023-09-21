@@ -10,3 +10,5 @@ Age is defined as the number of times the planet has circled the sun since you w
 
 * [View the source](https://github.com/fbgabriana/planetweight){:target="_projectsource"}
 
+![screenshot](screenshot.svg)
+
